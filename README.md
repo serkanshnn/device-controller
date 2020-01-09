@@ -8,3 +8,7 @@ Required parts:
 - <a href="https://www.amazon.com/ELEGOO-Electronics-Component-resistors-Potentiometer/dp/B01ERPXFZK/ref=sr_1_5?keywords=resistors&qid=1578605504&sr=8-5">Resistors (10k and 330 ohm) && Led && Potentiometer</a>
 - <a href="https://www.amazon.com/Infrared-Receiver-Controlled-Electronic-Circuits/dp/B006OAHKEE/ref=sr_1_17?keywords=ir+receiver+arduino&qid=1578606677&sr=8-17">IR Receiver</a>
 - <a href="https://www.amazon.com/Arducam-Display-Controller-Character-Backlight/dp/B01N5I8KCS/ref=sr_1_2?keywords=LCD+screen+%282x16%29&qid=1578606754&sr=8-2">LCD screen (2x16)</a>
+
+
+Required library:
+- <a href="https://github.com/z3t0/Arduino-IRremote.git">IRremote</a>
